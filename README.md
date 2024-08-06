@@ -1,1 +1,1 @@
-My Beginner Python Workspace and Projects
+Beginner Python Workspace and Projects
